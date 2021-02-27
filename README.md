@@ -1,2 +1,2 @@
 # devops49
-devops49 é um progeto para o desenvolvimento de atualização em novas tecnologias: python, terraform, kubernetes/docker, cloud aws.
+devops49 é um projeto de aprendizado e desenvolvimento em novas tecnologias: python, terraform, kubernetes/docker, cloud aws.
